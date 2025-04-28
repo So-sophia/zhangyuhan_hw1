@@ -64,3 +64,21 @@ Error: Matrix a and b must have the same rows and cols.
 将你的每个函数的测试运行结果以截图的形式放在你仓库的`README.md`文件中（请注意Markdown中图片的引用要包含源文件）。并将你的最终代码仓库链接（在浏览器上的那个，不要带有`.git`的）填写如下问卷发送：
 
 ![](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2025-04-19-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%85%E8%AE%AD%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4.png)
+
+### 我的思路
+其实没有什么思路，基本就是按照那个doc文件里面给的一些提示来写东西，行列式主要用了递归，然后cmake和Makefile的操作研究了好久，感谢学长的帮助。
+### 运行截图
+#### 加法
+![alt text](image.png)
+#### 减法
+![alt text](image-3.png)
+#### 乘法
+![alt text](image-5.png)
+#### 数乘
+![alt text](image-6.png)
+#### 转置
+![alt text](image-7.png)
+#### 行列式
+![alt text](image-8.png)
+#### 矩阵的迹
+![alt text](image-9.png)
